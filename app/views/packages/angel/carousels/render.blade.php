@@ -23,7 +23,7 @@
 
 
  .slide {
-        height:150px;
+        height:150px; 
     }
 
 
